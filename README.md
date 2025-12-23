@@ -1,5 +1,4 @@
 [![SWR](https://assets.vercel.com/image/upload/v1572289618/swr/banner.png)](https://swr.vercel.app)
-
 <p align="center">
   <a aria-label="Vercel logo" href="https://vercel.com">
     <img src="https://badgen.net/badge/icon/Made%20by%20Vercel?icon=zeit&label&color=black&labelColor=black">
